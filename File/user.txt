@@ -1,0 +1,8 @@
+a:2:{s:8:"username";s:3:"fff";s:8:"password";s:2:"12";}
+a:2:{s:8:"username";s:2:"fg";s:8:"password";s:3:"123";}
+
+a:2:{s:8:"username";s:2:"fg";s:8:"password";s:3:"124";}
+a:2:{s:8:"username";s:5:"admin";s:8:"password";s:0:"";}
+a:2:{s:8:"username";s:5:"admin";s:8:"password";s:2:"as";}
+a:2:{s:8:"username";s:5:"sanny";s:8:"password";s:2:"dd";}
+a:2:{s:8:"username";s:2:"ss";s:8:"password";s:2:"ss";}
